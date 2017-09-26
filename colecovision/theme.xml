@@ -1,6 +1,6 @@
 <theme>
-    <formatVersion>3</formatVersion>
-    <include>./../carbon.xml</include>
+	<formatVersion>3</formatVersion>
+	<include>./../carbon.xml</include>
 
 	<view name="system">
 
@@ -15,11 +15,11 @@
 		
 		<image name="logo">
 			<path>./art/system.svg</path>
-        </image>
+		</image>
 		
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic,detailed,video">
 
 		<image name="logo">
 			<path>./art/system.svg</path>
@@ -38,10 +38,4 @@
 		
 	</view>
 
-	<view name="basic">		
-	</view>
-
-	<view name="detailed">
-	</view>
-	
 </theme>
